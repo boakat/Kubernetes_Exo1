@@ -22,5 +22,6 @@ voir fichier :
 5. Ecrivez une manifest nginx-deployment.yml pour déployez 2 réplicas d'un pod nginx (version 1.18.0)
 #
                 voir le fichier nginx-deployment.yml
-
+#### lancer le deploiement : 
+                   kubectl apply -f nginx-deployement.yml
 
