@@ -2,7 +2,8 @@
 
 1. Ecrivez un manifest pod.yml pour déployer avec l'image mmumshad/simple-webapp-color en précisant que la color souhaitée est en rouge
 voir fichier : 
-##### pod.yml
+#
+                           pod.yml
 
 2. Lancez votre pod et verifiez qu'il est bien en cours d'éxecution
 #### lancer l'image : 
@@ -19,5 +20,7 @@ voir fichier :
                 lancer dans l'url  @ip:8080
                 
 5. Ecrivez une manifest nginx-deployment.yml pour déployez 2 réplicas d'un pod nginx (version 1.18.0)
+#
+                voir le fichier nginx-deployment.yml
 
 
